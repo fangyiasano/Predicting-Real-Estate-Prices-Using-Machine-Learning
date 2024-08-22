@@ -29,7 +29,7 @@ After the data cleaning, for the exploratory data analysis, we utilized various 
 The Gradient Boosting Regressor gives the best result.
 
 Best cross-validation score: 0.87  
-Final test sample score: 0.902420934571331
+Final test sample score: R² 0.902420934571331
 
 
 
