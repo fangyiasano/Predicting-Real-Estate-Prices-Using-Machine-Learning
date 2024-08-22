@@ -18,7 +18,6 @@ In the exploratory data analysis, I utilized various methods to identify the key
 ## Model Building
 
 1. We applied different feature encoding techniques based on the characteristics of the data, and then we split the dataset into training and test sets, with the test set comprising 25% of the data.  
-![chart4](https://github.com/user-attachments/assets/c263976c-9b3a-4aa9-b746-de2f64d20f2f)(by Jia Si)  
 
 2. Through exploratory data analysis (EDA), MIC, MIS, and feature importance scores, we ultimately identified the most impactful features.
 
