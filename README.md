@@ -10,14 +10,14 @@
 
 ## EDA
 
-In the exploratory data analysis, I utilized various methods to identify the key features that have the most significant impact on property prices. Here are a few highlights.
+After the data cleaning, for the exploratory data analysis, I utilized various methods to identify the key features that have the most significant impact on property prices. Here are a few highlights.
 ![chart1](https://github.com/user-attachments/assets/8eb53109-3598-497c-afe4-b5e8d82edc31)
 ![chart2](https://github.com/user-attachments/assets/b433e04d-b8c7-42f7-a1f0-036b6ceafaf1)
 ![chart3](https://github.com/user-attachments/assets/edef4661-1217-405b-bb29-3623a9b5cde8)
 
 ## Model Building
 
-1. We applied different feature encoding techniques based on the characteristics of the data, and then we split the dataset into training and test sets, with the test set comprising 25% of the data.  
+1. After we cleaned the data exhaustively, we applied different feature encoding techniques based on the characteristics of the data, and then we split the dataset into training and test sets, with the test set comprising 25% of the data.  
 
 2. Through exploratory data analysis (EDA), MIC, MIS, and feature importance scores, we ultimately identified the most impactful features.
 
