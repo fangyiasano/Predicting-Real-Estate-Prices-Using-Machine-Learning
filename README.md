@@ -28,7 +28,7 @@ In the exploratory data analysis, I utilized various methods to identify the key
 ## Model performance
 The Gradient Boosting Regressor gives the best result.
 
-Best cross-validation score: 0.870
+Best cross-validation score: 0.87  
 Final test sample score: 0.902420934571331
 
 
