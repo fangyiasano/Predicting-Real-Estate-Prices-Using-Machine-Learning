@@ -10,7 +10,7 @@
 
 ## EDA
 
-After the data cleaning, for the exploratory data analysis, I utilized various methods to identify the key features that have the most significant impact on property prices. Here are a few highlights.
+After the data cleaning, for the exploratory data analysis, we utilized various methods to identify the key features that have the most significant impact on property prices. Here are a few highlights.
 ![chart1](https://github.com/user-attachments/assets/8eb53109-3598-497c-afe4-b5e8d82edc31)
 ![chart2](https://github.com/user-attachments/assets/b433e04d-b8c7-42f7-a1f0-036b6ceafaf1)
 ![chart3](https://github.com/user-attachments/assets/edef4661-1217-405b-bb29-3623a9b5cde8)
