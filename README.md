@@ -23,7 +23,7 @@ In the exploratory data analysis, I utilized various methods to identify the key
 
 3. To optimize model performance, we selected two different feature sets—one more comprehensive and the other more streamlined. We will ultimately choose the feature set that maximizes model performance.
 
-4. During the model selection phase, we experimented with twelve different algorithms and calculated their respective scores. I chose R² as the evaluation metric because it is intuitive and effectively measures the model's fit across the entire dataset.
+4. During the model selection phase, we experimented with 12 different algorithms and calculated their respective scores. I chose R² as the evaluation metric because it is intuitive and effectively measures the model's fit across the entire dataset.
 
 ## Model performance
 The Gradient Boosting Regressor gives the best result.
